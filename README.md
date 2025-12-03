@@ -1,0 +1,2 @@
+# Python
+sıfırdan python dersleri
